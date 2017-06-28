@@ -1,0 +1,32 @@
+{
+  "name": "site-setup",
+  "version": "1.0.0",
+  "description": "Basic workflow setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bob Jones",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "browser-sync": "^2.18.12",
+    "del": "^3.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-postcss": "^7.0.0",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-calc": "^6.0.0",
+    "postcss-hexrgba": "^0.2.1",
+    "postcss-import": "^10.0.0",
+    "postcss-mixins": "^6.0.0",
+    "postcss-nested": "^2.0.2",
+    "postcss-simple-vars": "^4.0.0"
+  }
+}
